@@ -1,3 +1,3 @@
 # ionic-cordova-app
-new ionic-cordova-app test 
-Cross platform mobile test app using ionic and cordova frameworks
+
+Building cross platform mobile app from scratch using ionic and cordova frameworks
